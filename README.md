@@ -80,9 +80,9 @@ User (WhatsApp):
 
 think python
 
-Bot Response:
+### Bot Response:
 
-📚 Book Found!
+#### 📚 Book Found!
 
 #### Title: think python
 #### Author: a dowrry
