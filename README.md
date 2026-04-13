@@ -92,14 +92,14 @@ think python
 Ensure Flask server and ngrok are running simultaneously
 Do not upload bookstore.db (add to .gitignore)
 This project uses Twilio Sandbox for testing
-🚀 Future Enhancements
-🛒 Order books via WhatsApp
-🔔 Stock notifications
-🤖 AI-based recommendations
-📊 Admin analytics dashboard
+###### 🚀 Future Enhancements
+###### 🛒 Order books via WhatsApp
+###### 🔔 Stock notifications
+###### 🤖 AI-based recommendations
+###### 📊 Admin analytics dashboard
 👨‍💻 Author
 
-Rakshit Sinh
+Rakshit Sinha
 📧 Connect with me on GitHub
 
 ⭐ If you like this project
