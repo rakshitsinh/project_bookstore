@@ -57,15 +57,15 @@ project_bookstore/
 bash
 git clone https://github.com/your-username/project_bookstore.git
 cd project_bookstore
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 pip install flask twilio pyqt5
-3️⃣ Run PyQt Application
+### 3️⃣ Run PyQt Application
 python main.py
-4️⃣ Run WhatsApp Bot
+### 4️⃣ Run WhatsApp Bot
 python wp_bot.py
-5️⃣ Start ngrok
+### 5️⃣ Start ngrok
 ngrok http 5000
-6️⃣ Configure Twilio Webhook
+### 6️⃣ Configure Twilio Webhook
 
 Paste:
 
