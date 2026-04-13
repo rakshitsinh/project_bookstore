@@ -84,10 +84,10 @@ Bot Response:
 
 📚 Book Found!
 
-###Title: think python
-###Author: a dowrry
-###Price: ₹450
-###Stock: 20
+### Title: think python
+### Author: a dowrry
+### Price: ₹450
+### Stock: 20
 ###⚠️ Notes
 Ensure Flask server and ngrok are running simultaneously
 Do not upload bookstore.db (add to .gitignore)
